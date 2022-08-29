@@ -6,7 +6,6 @@
   [Street] [varchar](255) NULL,
   [City] [varchar](255) NULL,
   [State] [varchar](10) NULL,
-  [Zip] [varchar](5) NULL,
   PRIMARY KEY CLUSTERED ([StoreId])
 )
 ON [PRIMARY]
